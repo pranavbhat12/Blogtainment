@@ -12,9 +12,9 @@ Getting Bored of reading blogs ? Try the color picker game which allows you to p
 
 ## Technologies Used
 
-Html and bootstrap used to create the overall website and Color picker game is created using javascript which has two levels of difficulty: Easy and Hard
+Html and Bootstrap used to create the overall website and Color picker game is created using Javascript which has two levels of difficulty: Easy and Hard
 
 
-Give it a try and let us know about your experience.😀
+Give it a try and Let us know about your experience.😀
 
 
